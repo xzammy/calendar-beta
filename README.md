@@ -1,6 +1,4 @@
-# vuestacks-calendar-vue-firebase
-
-![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-calendar-vue-firebase/master/src/assets/cal-screen.JPG)
+# Calendar Beta
 
 ## Project setup
 ```
@@ -60,4 +58,4 @@ firebase.initializeApp({
 export const db = firebase.firestore();
 ```
 Enjoy the demo! Submit an issue if you see anything that could be improved!
-# calendar-beta
+
